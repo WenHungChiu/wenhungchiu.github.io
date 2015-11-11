@@ -1,2 +1,3 @@
 name: WenHung Chiu, from Taiwan
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
